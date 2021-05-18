@@ -15,3 +15,9 @@ Elections come in all shapes and sizes. In the UK, the Prime Minister is officia
 Perhaps the simplest way to hold an election, though, is via a method commonly known as the “plurality vote” (also known as “first-past-the-post” or “winner take all”). In the plurality vote, every voter gets to vote for one candidate. At the end of the election, whichever candidate has the greatest number of votes is declared the winner of the election. Plurality creates creates a C based tool to take vote and name of the candidates as input and outputs the winner based on the algorithm.
 
 Language used: C
+
+**3. Readability**
+
+A C based implementation built on the logic behind The Coleman-Liau index to detect the readability of a text. The algorthm takes input as text and outputs the readibility/ difficulty level of the text. 
+
+Language used: C
